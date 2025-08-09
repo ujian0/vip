@@ -59,18 +59,18 @@ async function safeSendPhoto(chatId, photo, extra = {}) {
 // Daftar Paket
 // =======================
 const paketList = {
-  lokal: { name: "Lokal", harga: 2000, channel: 'https://t.me/+05D0N_SWsMNkMTY1' },
-  cina: { name: "Cina", harga: 2000, channel: 'https://t.me/+D0o3LkSFhLAxZGQ1' },
-  asia: { name: "Asia", harga: 2000, channel: 'https://t.me/+PyUHdR0yAkQ2NDBl' },
-  amerika: { name: "Amerika", harga: 2000, channel: 'https://t.me/+p_5vP8ACzUs1MTNl' },
-  yaoi: { name: "Yaoi", harga: 2000, channel: 'https://t.me/+Bs212qTHcRZkOTg9' },
+  lokal: { name: "Lokal", harga: 2000, channel: 'https://t.me/+P1hlp7dNmdgyOTVl' },
+  cina: { name: "Cina", harga: 2000, channel: 'https://t.me/+eXWEgvPsFpY2MGI1' },
+  asia: { name: "Asia", harga: 2000, channel: 'https://t.me/+RdCldl43tqk5YzY1' },
+  amerika: { name: "Amerika", harga: 2000, channel: 'https://t.me/+kT7I9m0V85JkZWY1' },
+  yaoi: { name: "Yaoi", harga: 2000, channel: 'https://t.me/+B_BQ68aeAd42MTI1' },
   lengkap: { 
     name: "Paket Lengkap Semua Channel", harga: 6000, channel: [
-      'https://t.me/+05D0N_SWsMNkMTY1',
-      'https://t.me/+D0o3LkSFhLAxZGQ1',
-      'https://t.me/+PyUHdR0yAkQ2NDBl',
-      'https://t.me/+p_5vP8ACzUs1MTNl',
-      'https://t.me/+Bs212qTHcRZkOTg9'
+      'https://t.me/+RdCldl43tqk5YzY1',
+      'https://t.me/+P1hlp7dNmdgyOTVl',
+      'https://t.me/+eXWEgvPsFpY2MGI1',
+      'https://t.me/+kT7I9m0V85JkZWY1',
+      'https://t.me/+B_BQ68aeAd42MTI1'
     ] 
   }
 };
